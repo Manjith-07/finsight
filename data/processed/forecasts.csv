@@ -1,0 +1,41 @@
+Bank,Metric,Metric_Label,Forecast_Year,Forecast_Quarter,Period,Forecast_Value,Lower_Bound,Upper_Bound,Model_MAPE_Pct,Confidence
+Barclays,Revenue_Bn,Revenue,2025,1,2025-Q1,6.874,6.667,7.08,4.48,High
+Barclays,Revenue_Bn,Revenue,2025,2,2025-Q2,6.952,6.535,7.369,4.48,High
+Barclays,Revenue_Bn,Revenue,2025,3,2025-Q3,7.031,6.398,7.664,4.48,High
+Barclays,Revenue_Bn,Revenue,2025,4,2025-Q4,7.111,6.258,7.964,4.48,High
+Barclays,NPA_Ratio_Pct,NPA Ratio,2025,1,2025-Q1,3.097,3.004,3.19,9.57,Medium
+Barclays,NPA_Ratio_Pct,NPA Ratio,2025,2,2025-Q2,3.086,2.901,3.271,9.57,Medium
+Barclays,NPA_Ratio_Pct,NPA Ratio,2025,3,2025-Q3,3.076,2.799,3.353,9.57,Medium
+Barclays,NPA_Ratio_Pct,NPA Ratio,2025,4,2025-Q4,3.067,2.699,3.435,9.57,Medium
+Deutsche Bank,Revenue_Bn,Revenue,2025,1,2025-Q1,7.998,7.758,8.238,3.73,High
+Deutsche Bank,Revenue_Bn,Revenue,2025,2,2025-Q2,8.083,7.598,8.568,3.73,High
+Deutsche Bank,Revenue_Bn,Revenue,2025,3,2025-Q3,8.171,7.436,8.907,3.73,High
+Deutsche Bank,Revenue_Bn,Revenue,2025,4,2025-Q4,8.263,7.272,9.255,3.73,High
+Deutsche Bank,NPA_Ratio_Pct,NPA Ratio,2025,1,2025-Q1,4.797,4.653,4.94,7.54,Medium
+Deutsche Bank,NPA_Ratio_Pct,NPA Ratio,2025,2,2025-Q2,4.838,4.548,5.129,7.54,Medium
+Deutsche Bank,NPA_Ratio_Pct,NPA Ratio,2025,3,2025-Q3,4.884,4.444,5.323,7.54,Medium
+Deutsche Bank,NPA_Ratio_Pct,NPA Ratio,2025,4,2025-Q4,4.933,4.341,5.525,7.54,Medium
+Goldman Sachs,Revenue_Bn,Revenue,2025,1,2025-Q1,14.507,14.072,14.943,3.34,High
+Goldman Sachs,Revenue_Bn,Revenue,2025,2,2025-Q2,14.769,13.882,15.655,3.34,High
+Goldman Sachs,Revenue_Bn,Revenue,2025,3,2025-Q3,15.034,13.681,16.388,3.34,High
+Goldman Sachs,Revenue_Bn,Revenue,2025,4,2025-Q4,15.305,13.469,17.142,3.34,High
+Goldman Sachs,NPA_Ratio_Pct,NPA Ratio,2025,1,2025-Q1,1.115,1.082,1.149,26.96,Low
+Goldman Sachs,NPA_Ratio_Pct,NPA Ratio,2025,2,2025-Q2,1.128,1.06,1.196,26.96,Low
+Goldman Sachs,NPA_Ratio_Pct,NPA Ratio,2025,3,2025-Q3,1.143,1.04,1.246,26.96,Low
+Goldman Sachs,NPA_Ratio_Pct,NPA Ratio,2025,4,2025-Q4,1.16,1.021,1.299,26.96,Low
+HSBC,Revenue_Bn,Revenue,2025,1,2025-Q1,18.424,17.871,18.976,2.96,High
+HSBC,Revenue_Bn,Revenue,2025,2,2025-Q2,18.735,17.611,19.859,2.96,High
+HSBC,Revenue_Bn,Revenue,2025,3,2025-Q3,19.056,17.341,20.771,2.96,High
+HSBC,Revenue_Bn,Revenue,2025,4,2025-Q4,19.387,17.061,21.714,2.96,High
+HSBC,NPA_Ratio_Pct,NPA Ratio,2025,1,2025-Q1,2.422,2.349,2.494,12.41,Low
+HSBC,NPA_Ratio_Pct,NPA Ratio,2025,2,2025-Q2,2.433,2.287,2.579,12.41,Low
+HSBC,NPA_Ratio_Pct,NPA Ratio,2025,3,2025-Q3,2.448,2.228,2.669,12.41,Low
+HSBC,NPA_Ratio_Pct,NPA Ratio,2025,4,2025-Q4,2.467,2.171,2.763,12.41,Low
+JPMorgan Chase,Revenue_Bn,Revenue,2025,1,2025-Q1,45.285,43.927,46.644,3.95,High
+JPMorgan Chase,Revenue_Bn,Revenue,2025,2,2025-Q2,46.308,43.529,49.086,3.95,High
+JPMorgan Chase,Revenue_Bn,Revenue,2025,3,2025-Q3,47.358,43.096,51.62,3.95,High
+JPMorgan Chase,Revenue_Bn,Revenue,2025,4,2025-Q4,48.437,42.625,54.25,3.95,High
+JPMorgan Chase,NPA_Ratio_Pct,NPA Ratio,2025,1,2025-Q1,1.403,1.361,1.445,9.89,Medium
+JPMorgan Chase,NPA_Ratio_Pct,NPA Ratio,2025,2,2025-Q2,1.325,1.246,1.405,9.89,Medium
+JPMorgan Chase,NPA_Ratio_Pct,NPA Ratio,2025,3,2025-Q3,1.242,1.13,1.354,9.89,Medium
+JPMorgan Chase,NPA_Ratio_Pct,NPA Ratio,2025,4,2025-Q4,1.152,1.014,1.291,9.89,Medium

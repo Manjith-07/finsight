@@ -1,0 +1,6 @@
+Bank,Revenue_Bn,Net_Income_Bn,Profit_Margin_Pct,Cost_to_Income,NPA_Ratio_Pct,ROE_Pct,Capital_Ratio_Pct,NPA_Health,Basel_Status,Profitability_Rating,NPA_Rate_Pct,Portfolio_Health,Total_Exposure_Mn,Overall_Health_Score,Overall_Rating
+JPMorgan Chase,48.137,12.672,26.32,66.38,1.51,10.27,15.7,Healthy,Well Capitalised,Excellent,3.12,Stressed,277.51,93,Strong
+Goldman Sachs,14.252,3.883,27.25,62.41,1.766,6.32,15.13,Healthy,Well Capitalised,Excellent,0.88,Healthy,272.96,85,Strong
+Barclays,7.259,1.585,21.83,67.1,3.034,12.82,13.82,Watch,Adequately Capitalised,Good,1.75,Watch,305.41,73,Stable
+Deutsche Bank,8.425,2.369,28.12,62.2,4.913,12.06,13.52,Stressed,Adequately Capitalised,Excellent,2.62,Watch,280.13,70,Stable
+HSBC,18.855,4.266,22.63,69.41,2.68,8.83,13.26,Watch,Adequately Capitalised,Good,1.88,Watch,306.79,58,Weak

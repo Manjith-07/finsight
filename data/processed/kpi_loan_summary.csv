@@ -1,0 +1,6 @@
+Bank,Total_Loans,Total_Exposure_Mn,Avg_Loan_Size,Avg_Interest_Rate,NPA_Count,NPA_Rate_Pct,Portfolio_Health
+Barclays,800,305.41,381757.0,8.12,14,1.75,Watch
+Deutsche Bank,800,280.13,350159.0,7.91,21,2.62,Watch
+Goldman Sachs,800,272.96,341194.0,8.02,7,0.88,Healthy
+HSBC,800,306.79,383486.0,8.13,15,1.88,Watch
+JPMorgan Chase,800,277.51,346891.0,7.98,25,3.12,Stressed
