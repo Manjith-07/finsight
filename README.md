@@ -56,4 +56,3 @@ finsight/
 - Profit Margin
 
 ---
-*Project by MJ | MCA, CUSAT 2026 | Built for Barclays Analyst Application*
