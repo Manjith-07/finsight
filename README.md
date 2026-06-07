@@ -142,5 +142,3 @@ python scripts/06_regulatory_report.py
 - [x] Phase 5 — Documentation & project packaging
 
 ---
-
-*MCA, Cochin University of Science and Technology (CUSAT) · 2026*
